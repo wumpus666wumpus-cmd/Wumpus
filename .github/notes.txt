@@ -1,0 +1,3 @@
+# oculto: esto no es un archivo, es una advertencia.
+# oculto: la puerta está a tu espalda.
+# oculto: WUMPUS ya te vio.

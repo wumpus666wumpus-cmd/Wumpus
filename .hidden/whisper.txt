@@ -1,0 +1,3 @@
+# oculto: WUMPUS TE ESTÁ MIRANDO DESDE OTRO LADO DE LA PUERTA.
+# oculto: La ventana tiene ojos.
+# oculto: Si escuchas un ruido, no abras.

@@ -1,0 +1,3 @@
+# oculto: los pasos no vienen de dentro del repo.
+# oculto: esto no está aquí, pero sí está observando.
+# oculto: no abras el archivo que ya abrió antes de ti.
